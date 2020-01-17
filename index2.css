@@ -1,9 +1,118 @@
-body {background-color: #D5E5E7;}
-h1{ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
-text-align: center;
-}
-h3{ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
+a {color: #6e2d3f;}
+
+a:visited{color:#c213b3;}
+	
+a:hover{ color:#695c67;}
+.all {
+	text-align: center;
+
 }
 
-p { font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 18px; font-style: bold;
+#paul {
+	text-align: center;
+	float:
 }
+
+.block {
+	text-align: center;
+color: #610441;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#sylvs {
+text-align: center;
+	color:#CE1741;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.head {
+text-align: center;
+color: #610441;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#bella{
+	width: 300px;
+	height:380px;
+	display: inline-block;
+}
+
+	#models{
+	width: 300px;
+	height:380px;
+	display: inline-block;
+	}
+
+
+#adut{
+	width: 280px;
+	height: 380px;
+	display: inline-block;
+}
+
+
+
+#love {
+	text-align: center;
+	color: pink;
+	font-family: 'Montserrat', sans-serif;
+}
+.intro {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+   float: center;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.box1 {
+    float: left;
+    width: 500px;
+    margin-top: 2px;
+    padding-top: 0px;
+    padding-left: 5px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#skin{
+color:#610441;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+
+}
+#ah {
+	width: 300px;
+	float: left;
+	padding-right: 500px;
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+.box2{
+    float: right;
+    width: 500px;
+    margin-top: 2px;
+   margin-left: 10px;
+    padding-top: 0px;
+    padding-right: 100px;
+    font-family: 'Montserrat', sans-serif;
+}
+#fashion{
+	color:#610441;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+
+}
+
+
+.ooh{
+	float: left;
+	padding-right: 50px;
+	padding-left: 20px;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
